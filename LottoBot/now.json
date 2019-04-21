@@ -1,0 +1,5 @@
+{
+  "builds": [
+    { "src": "lbot.main.py", "use": "@now/python", "config": { "maxLambdaSize": "20mb" } }
+  ]
+}
