@@ -102,5 +102,6 @@ graph.put_photo(image=open("numbers.png", 'rb'), album_path="/me/photos" + "/pic
 
 
 #Number Printing
+#This process also confirms that the picture is uploaded.
 print(prtMsg)
 
